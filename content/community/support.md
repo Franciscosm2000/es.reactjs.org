@@ -21,7 +21,7 @@ Stack Overflow es un foro muy popular para hacer preguntas a nivel de código o 
 
 ## Foros de discusión populares {#popular-discussion-forums}
 
-Hay muchos foros en línea los cuales son un buen lugar para discutir tanto acerca de buenas prácticas y arquitectura de aplicaciones, como también sobre el futuro de React. Si tienes una pregunta a nivel de código, usualmente irá mejor en Stack Overflow.
+Hay muchos foros en línea los cuales son un buen lugar para discutir tanto acerca de buenas prácticas y arquitectura de aplicaciones, como también sobre el futuro de React. Si tienes una pregunta a nivel de código, usualmente irá mejor en Stack Overflow.XD
 
 Cada comunidad consiste de muchos miles de usuarios de React.
 
